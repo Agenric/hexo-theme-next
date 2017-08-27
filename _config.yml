@@ -395,7 +395,7 @@ google_analytics: 92050656-1
 #yandex_site_verification:
 
 # CNZZ count
-#cnzz_siteid:
+cnzz_siteid: 1261280866
 
 # Application Insights
 # See https://azure.microsoft.com/en-us/services/application-insights/
